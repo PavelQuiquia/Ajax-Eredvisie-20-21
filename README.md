@@ -2,14 +2,15 @@
 
 Visualization of players 'Ajax' Champion of the Eredivisie 20-21
 
-these are the steps to get some analytics by players:
+These are the steps to get some analytics by players:
 
 Using: 
-Get URL from chrome 
-Postman - to get the request code
-Atom IDE to mimic the request from the website, and create the DB
-Python Pandas - To analyze the data ad get some visuals
-Python in Atom IDE - To analyze and get some visuals
+
+Get URL from chrome.
+Postman - to get the request code.
+Atom IDE to mimic the request from the website, and create the DB.
+Python Pandas - To analyze the data ad get some visuals.
+Python in Atom IDE - To analyze and get some visuals.
 
 1. Get database from www.whoscored.com.
 I will use the DB of players from 'Ajax' in the Eredivisie 20-21.

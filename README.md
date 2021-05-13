@@ -31,4 +31,6 @@ Copy the python request in your IDE (I use Atom), and run to create the DB in CS
 
 5. Work the DB
 Use Jupyter IDE and Pandas to create some visualization of the DB created.
---> CHECK FILE: Ajax Champion 20-21 Eredivisie.ipynb
+--> CHECK FILE: 
+- Ajax Champion 20-21 Eredivisie.ipynb
+- Ajax20.py
